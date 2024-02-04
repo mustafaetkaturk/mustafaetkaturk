@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafaetkaturk
-- 👀 I’m interested in secure automations
-- 🌱 I’m currently learning Salesforce.com in and out
-- 💞️ I’m looking to collaborate on flow projects
+- 👀 I’m interested in DATA integrity and Platform Integrations
+- 🌱 I’m currently studying Cloud Engineering and working on Salesforce.com
+- 💞️ I’m looking to enable business processes and data analysis.
 - 📫 How to reach me : www.linkedin.com/in/mustafaetkaturk
 
 <!---
